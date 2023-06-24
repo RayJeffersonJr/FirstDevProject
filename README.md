@@ -1,5 +1,5 @@
 # FirstDevProject
-This repository holds the development work I did for a potential front-end user interface program accessing an Microsoft Access database. The work was done between October 2003 to May 2006.
+This repository will hold the development work I did for a potential front-end user interface program accessing an Microsoft Access database. The work was done between October 2003 to May 2006.
 
 BACKGROUND ON THE DATABASE PROJECT
 
@@ -25,4 +25,4 @@ The front-end user interface was developed using the Visual BASIC programming la
 
 As I worked on the VB/Visual BASIC interface I knew that I wwanted to eventually use a front-end user interface developed in Java. I started work on the future Java upgrade to the VB front-end. The look of the Java user interface would have been nearly identical to the VB user interface.
 
-I will add more informattion about the front-end user interface in the future. 
+I will add more information about the front-end user interface in the future. 
